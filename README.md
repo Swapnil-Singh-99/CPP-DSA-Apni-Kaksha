@@ -1,5 +1,5 @@
 
-# CPP-DSA-Apni-Kaksha (Repository is in progress for cource completion)
+# CPP-DSA-Apni-Kaksha (Repository is in progress for course completion)
 
 C++ Full Course | C++ Tutorial | Data Structures & Algorithms
 taught by faculties of Apni College.
